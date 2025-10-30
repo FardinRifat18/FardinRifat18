@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Amine%20Hamzaoui&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Fardin%20Rifat&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 <h1 align="center">Hi 👋, I'm Fardin Rifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
