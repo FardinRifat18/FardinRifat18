@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **ewrfardin123xyz@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">ewrfardin123xyz@gmail.com
+<h3 align="left">Connect with me:ewrfardin123xyz@gmail.com</h3>
+<p align="left">
 </p>
 
 
